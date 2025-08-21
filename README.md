@@ -1,6 +1,10 @@
 ### - Hi 👋 I’m Pavol Danko
 ### - 💻 Working in Total Avengers with Totaljs
 ### - 🌱 I’m currently learning React
+### - 🎥 (Youtube tutorials)[https://www.youtube.com/channel/UCOHgLzEhnORdjK4B-oX2-Gg]
+### - 📄 (Blog - tutorials)[https://medium.com/@palodanko5]
+
+
 
 <!--
 **PavolSK/PavolSK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
